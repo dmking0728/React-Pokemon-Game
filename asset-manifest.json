@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Pokemon-Game/static/css/main.ab4b0a2e.chunk.css",
+    "main.js": "/React-Pokemon-Game/static/js/main.4bc22383.chunk.js",
+    "main.js.map": "/React-Pokemon-Game/static/js/main.4bc22383.chunk.js.map",
+    "runtime~main.js": "/React-Pokemon-Game/static/js/runtime~main.8a5b78b2.js",
+    "runtime~main.js.map": "/React-Pokemon-Game/static/js/runtime~main.8a5b78b2.js.map",
+    "static/js/2.6408f43b.chunk.js": "/React-Pokemon-Game/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/React-Pokemon-Game/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/React-Pokemon-Game/index.html",
+    "precache-manifest.dd9c5bcd1f09df71a58738089c337884.js": "/React-Pokemon-Game/precache-manifest.dd9c5bcd1f09df71a58738089c337884.js",
+    "service-worker.js": "/React-Pokemon-Game/service-worker.js",
+    "static/css/main.ab4b0a2e.chunk.css.map": "/React-Pokemon-Game/static/css/main.ab4b0a2e.chunk.css.map"
+  }
+}
